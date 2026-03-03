@@ -1,0 +1,17 @@
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.sourcelink.json
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\Users\Heath\C#\c-sharp-hw-5\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
